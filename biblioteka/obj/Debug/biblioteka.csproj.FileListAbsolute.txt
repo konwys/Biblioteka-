@@ -1,0 +1,5 @@
+C:\Users\Konrad\Desktop\projekty\biblioteka\biblioteka\biblioteka\bin\Debug\biblioteka.dll
+C:\Users\Konrad\Desktop\projekty\biblioteka\biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+C:\Users\Konrad\Desktop\projekty\biblioteka\biblioteka\biblioteka\obj\Debug\biblioteka.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\projekty\biblioteka\biblioteka\biblioteka\obj\Debug\biblioteka.dll
+C:\Users\Konrad\Desktop\projekty\biblioteka\biblioteka\biblioteka\obj\Debug\biblioteka.pdb
